@@ -3,8 +3,8 @@
 An end-to-end Retrieval-Augmented Generation (RAG) web application that lets users upload `.txt` and `.md` documents, process them into overlapping vector embeddings, filter chat scope by document, and ask grounded questions with source citations and token-usage visibility.
 
 ## Live Application
-- **Frontend (Vercel):** `<YOUR_VERCEL_URL>`
-- **Backend API (Render):** `<YOUR_RENDER_URL>` *(Note: Render free tier sleeps after inactivity, so the first request may take ~30–50s to cold-start.)*
+- **Frontend (Vercel):** `https://ai-assistant-ecru-seven.vercel.app`
+- **Backend API (Render):** `https://ai-assistant-gsm4.onrender.com` *(Note: Render free tier sleeps after inactivity, so the first request may take ~30–50s to cold-start.)*
 
 ## Technology Stack & Reasoning
 
